@@ -1,0 +1,11 @@
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.exe
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.deps.json
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.runtimeconfig.json
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.runtimeconfig.dev.json
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.dll
+C:\Users\rzili\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.0\LabOne.pdb
+C:\Users\rzili\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.0\LabOne.csprojAssemblyReference.cache
+C:\Users\rzili\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\rzili\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.0\LabOne.AssemblyInfo.cs
+C:\Users\rzili\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.0\LabOne.dll
+C:\Users\rzili\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.0\LabOne.pdb
